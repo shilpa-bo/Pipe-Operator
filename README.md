@@ -1,5 +1,3 @@
-## UID: 605703266
-
 ## Pipe Up
 
 This program mimics the behavior of the pipe (|) operator in shells. 
